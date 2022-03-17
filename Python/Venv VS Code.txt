@@ -1,0 +1,14 @@
+1. go to the folder where you want to create the venv in cmd
+and type python -m venv name
+
+2. crtl+shift+p and type "open workspace settings"
+
+3. on the top right hand side, press the "open settings (JSON)"
+icon and the type, within the brackets, "python.pythonPath": "the path to the scripts folder of the venv"
+
+4. after words in the terminal, activate the venv by tabing into activate.bat
+
+5. change the interpreter if haven't already into the venv
+it'll look pretty obvious when you see it.
+
+6. To deactivate it, go to command line and jsut type deactivate while in the venv 

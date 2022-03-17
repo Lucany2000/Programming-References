@@ -1,0 +1,8 @@
+Create new Project (.net core): cmd -> cd to folder that you want to have the project -> dotnet new console -o (project name)
+cmd code .: opens vscode while cd'd in the project folder
+Run app: cmd -> dotnet restore (one time only) -> dotnet run
+
+.Net core: the runtime
+Asp.net core: a framework (collection of libraries) that allows you to build web apps using .net core thus asp.net core runs on .net core
+
+Create new Project (asp.net core): cmd -> cd to folder that you want to have the project -> dotnet new mvc -au None -o (project name)
