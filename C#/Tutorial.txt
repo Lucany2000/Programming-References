@@ -1,0 +1,2 @@
+Create new console (Project): cmd -> cd into folder you want it to be stored -> dotnet new console -o (project name)
+dotnet run (file name/project)
